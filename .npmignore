@@ -1,0 +1,7 @@
+node_modules
+test
+.gitignore
+.npmignore
+.prettierrc.json
+.travis.yml
+package-lock.json
